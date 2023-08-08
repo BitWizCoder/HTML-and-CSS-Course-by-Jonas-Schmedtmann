@@ -1,0 +1,1 @@
+# These are practice projects and notes from Jonas Schmedtmann's HTML and CSS Course from Udemy.
